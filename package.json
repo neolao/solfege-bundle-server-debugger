@@ -1,0 +1,19 @@
+{
+    "name"          : "solfegejs-server-debugger",
+    "description"   : "The debugger of the server bundle (SolfegeJS)",
+    "version"       : "0.1.0",
+    "author"        : "neolao <contact@neolao.com>",
+    "repository"    : "https://github.com/neolao/solfege-bundle-server-debugger.git",
+    "main"          : "bundle/index.js",
+    "engines"       : 
+    {
+        "node": ">= 0.11.11"
+    },
+    "dependencies"  : 
+    {
+        "solfegejs"         : "1.3.x"
+    },
+    "devDependencies":
+    {
+    }
+}
