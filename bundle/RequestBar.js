@@ -79,7 +79,7 @@ proto.getHtml = function()
 
     // Display the logo and the version
     html += '<span class="solfegejs-requestbar-logo">' + 
-        '<svg width="26" height="26" viewBox="0 0 120 120">' +
+        '<svg width="20" height="20" viewBox="0 0 120 120">' +
             '<circle cx="60" cy="60" r="60" fill="black" />' +
             '<line x1="70" y1="20" x2="70" y2="90" stroke="white" stroke-width="4" />' +
             '<circle cx="56" cy="90" r="15" fill="white"/>' +
